@@ -1,0 +1,706 @@
+# The Sampression 1.0 Translation Master File
+# Copyright (C) 2014 Sampression
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sampression Pro\n"
+"POT-Creation-Date: 2015-02-17 17:16+0545\n"
+"PO-Revision-Date: 2015-02-17 17:24+0545\n"
+"Last-Translator: Sampression Themes <hello@sampression.com>\n"
+"Language-Team: Sampression Team <hello@sampression.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! Page not found."
+msgstr ""
+
+#: 404.php:18
+msgid "Sorry but the page you looking for cannot be found."
+msgstr ""
+
+#: 404.php:19
+msgid "Better to go"
+msgstr ""
+
+#: 404.php:19
+msgid "home"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:43 author.php:49 category.php:41 sidebar-right.php:51
+#: tag.php:37
+msgid "Archives"
+msgstr ""
+
+#: archive.php:53 author.php:59 category.php:34 inc/admin/sam-blog.php:30
+#: sidebar-right.php:41 tag.php:30
+msgid "Categories"
+msgstr ""
+
+#: archive.php:76 author.php:82 category.php:64 index.php:65 tag.php:59
+msgid "Nothing Found"
+msgstr ""
+
+#: archive.php:80 author.php:86 category.php:68 index.php:69 tag.php:63
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: author.php:29
+msgid "Author Archives: "
+msgstr ""
+
+#: category.php:18
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:42 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:63
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:37 content-chat.php:37 content-gallery.php:37
+#: content-image.php:37 content-link.php:36 content-quote.php:37
+#: content-status.php:37 content-video.php:34 content.php:36 loop.php:36
+#: page.php:46 single.php:104
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:48 content-chat.php:48 content-gallery.php:48
+#: content-image.php:48 content-link.php:47 content-quote.php:48
+#: content-status.php:48 content-video.php:42 content.php:47 image.php:52
+#: loop.php:47 single.php:70
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: content-audio.php:66 content-chat.php:66 content-gallery.php:66
+#: content-image.php:66 content-link.php:65 content-quote.php:66
+#: content-status.php:66 content-video.php:60 content.php:65 image.php:43
+#: inc/functions/functions.php:1170 loop.php:65 single.php:61
+msgid "0"
+msgstr ""
+
+#: content-audio.php:66 content-chat.php:66 content-gallery.php:66
+#: content-image.php:66 content-link.php:65 content-quote.php:66
+#: content-status.php:66 content-video.php:60 content.php:65 image.php:43
+#: loop.php:65 single.php:61
+msgid "1 comment"
+msgstr ""
+
+#: content-audio.php:66 content-chat.php:66 content-gallery.php:66
+#: content-image.php:66 content-link.php:65 content-quote.php:66
+#: content-status.php:66 content-video.php:60 content.php:65 image.php:43
+#: loop.php:65 single.php:61
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: content-audio.php:77 content-chat.php:77 content-gallery.php:77
+#: content-image.php:77 content-link.php:76 content-quote.php:77
+#: content-status.php:77 content-video.php:71 content.php:76 loop.php:76
+#, php-format
+msgid ""
+"<span class=\"icon-Folder-Archive\"></span><div class=\"overflow-hidden cat-"
+"listing\">%s</div>"
+msgstr ""
+
+#: content-audio.php:91 content-chat.php:91 content-gallery.php:91
+#: content-image.php:91 content-link.php:90 content-quote.php:91
+#: content-status.php:91 content-video.php:85 content.php:90 loop.php:90
+msgid "Edit this post"
+msgstr ""
+
+#: header.php:132
+msgid "Filter By:"
+msgstr ""
+
+#: header.php:136 header.php:155
+msgid "Show All"
+msgstr ""
+
+#: image.php:62 inc/functions/functions.php:1033
+#: inc/functions/functions.php:1069 page.php:50 single.php:92
+msgid "Edit"
+msgstr ""
+
+#: image.php:122
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Image"
+msgstr ""
+
+#: image.php:123
+msgid "Next Image <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/admin/sam-advanced.php:9 inc/functions/functions.php:1487
+msgid "Advanced"
+msgstr ""
+
+#: inc/admin/sam-advanced.php:12
+msgid "Header Code"
+msgstr ""
+
+#: inc/admin/sam-advanced.php:16 inc/admin/sam-advanced.php:31
+msgid "Description"
+msgstr ""
+
+#: inc/admin/sam-advanced.php:17
+msgid ""
+"The following code will add to the &lt;head&gt; tag before wp_head(). Useful "
+"if you need to add additional scripts such as CSS or JS."
+msgstr ""
+
+#: inc/admin/sam-advanced.php:19 inc/admin/sam-advanced.php:34
+msgid "Type here"
+msgstr ""
+
+#: inc/admin/sam-advanced.php:27
+msgid "Footer Code"
+msgstr ""
+
+#: inc/admin/sam-advanced.php:32
+msgid ""
+"The following code will add to the footer before the closing </body> tag. "
+"Useful if you need to Javascript or tracking code."
+msgstr ""
+
+#: inc/admin/sam-blog.php:9
+msgid "Blog Page Settings"
+msgstr ""
+
+#: inc/admin/sam-blog.php:12
+msgid "Post meta settings"
+msgstr ""
+
+#: inc/admin/sam-blog.php:17
+msgid "Show"
+msgstr ""
+
+#: inc/admin/sam-blog.php:20
+msgid "Date"
+msgstr ""
+
+#: inc/admin/sam-blog.php:25
+msgid "Author"
+msgstr ""
+
+#: inc/admin/sam-blog.php:35
+msgid "Tags"
+msgstr ""
+
+#: inc/admin/sam-blog.php:40
+msgid "Comment Count"
+msgstr ""
+
+#: inc/admin/sam-blog.php:52
+msgid "Post display settings (Check to hide blog from category on home page)"
+msgstr ""
+
+#: inc/admin/sam-custom-css.php:7 inc/functions/functions.php:1479
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin/sam-import-export.php:9
+msgid "Import Export"
+msgstr ""
+
+#: inc/admin/sam-import-export.php:14
+msgid "Export All Theme Settings"
+msgstr ""
+
+#: inc/admin/sam-import-export.php:18
+msgid "Import Theme Settings"
+msgstr ""
+
+#: inc/admin/sam-import-export.php:21
+msgid "Import Json File"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:8 inc/functions/functions.php:1463
+#: inc/widgets/adminbar-menu.php:41
+msgid "Logos &amp; Icons"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:19
+msgid "Website Logo"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:29 inc/admin/sam-logos-icons.php:105
+#: inc/admin/sam-logos-icons.php:144 inc/admin/sam-logos-icons.php:164
+#: inc/admin/sam-logos-icons.php:184 inc/admin/sam-logos-icons.php:204
+msgid "Change"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:35
+msgid "Website logo must be 340px x 75px<br>jpg, png, gif are supported."
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:52
+msgid "Website Title"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:56 inc/functions/functions.php:859
+#: inc/widgets/adminbar-menu.php:40
+msgid "Sampression"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:71
+msgid "Website Description"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:74 inc/admin/theme-options.php:12
+msgid "Just another responsive theme"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:95
+msgid "Favicon"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:111
+msgid "Favicon must be 16px x 16px<br>jpg, png, gif, ico are supported."
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:113 inc/admin/sam-logos-icons.php:153
+#: inc/admin/sam-logos-icons.php:173 inc/admin/sam-logos-icons.php:193
+#: inc/admin/sam-logos-icons.php:213
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:127
+msgid "Apple Touch Icons"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:131
+msgid "Disable All"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:150
+msgid "Upload Apple iPhone Icon (57px x 57px)"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:170
+msgid "Upload Apple iPad Icon (72px x 72px)"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:190
+msgid "Upload Apple iPhone Retina Icon (114px x 114px)"
+msgstr ""
+
+#: inc/admin/sam-logos-icons.php:210
+msgid "Upload Apple iPad Retina Icon (144px x 144px)"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:7 inc/functions/functions.php:1475
+#: inc/widgets/adminbar-menu.php:42
+msgid "Social Media"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:12
+msgid "Add Social Media"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:17
+msgid "Facebook:"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:18
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:22
+msgid "Twitter:"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:23
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:27
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:28
+msgid "Google Plus Url"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:32
+msgid "Youtube:"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:33
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:37
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:38
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:42
+msgid "Rss:"
+msgstr ""
+
+#: inc/admin/sam-social-media.php:43
+msgid "Rss Url"
+msgstr ""
+
+#: inc/admin/sam-styling.php:12
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/sam-styling.php:15
+msgid "Background"
+msgstr ""
+
+#: inc/admin/sam-styling.php:20
+msgid "Show background"
+msgstr ""
+
+#: inc/admin/sam-styling.php:23
+msgid "If unchecked, your selected background image or color will be shown."
+msgstr ""
+
+#: inc/admin/sam-styling.php:33 inc/functions/metabox.php:16
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/sam-styling.php:63
+msgid "Columns"
+msgstr ""
+
+#: inc/admin/sam-typography.php:11 inc/functions/functions.php:1471
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/sam-typography.php:33
+msgid "Body Text"
+msgstr ""
+
+#: inc/admin/sam-typography.php:35 inc/admin/sam-typography.php:55
+#: inc/admin/sam-typography.php:75 inc/admin/sam-typography.php:101
+#: inc/admin/sam-typography.php:140 inc/admin/sam-typography.php:166
+#: inc/admin/sam-typography.php:194 inc/admin/sam-typography.php:220
+msgid "The quick brown fox jumps over the lazy dog."
+msgstr ""
+
+#: inc/admin/sam-typography.php:53
+msgid "Navigation"
+msgstr ""
+
+#: inc/admin/sam-typography.php:73
+msgid "Link"
+msgstr ""
+
+#: inc/admin/sam-typography.php:93
+msgid "Filter by"
+msgstr ""
+
+#: inc/admin/sam-typography.php:99
+msgid "Widget Title"
+msgstr ""
+
+#: inc/admin/sam-typography.php:115
+msgid "Sticky Post"
+msgstr ""
+
+#: inc/admin/sam-typography.php:122
+msgid "Button"
+msgstr ""
+
+#: inc/admin/sam-typography.php:134
+msgid "Post/Page Title"
+msgstr ""
+
+#: inc/admin/sam-typography.php:138 inc/admin/sam-typography.php:192
+msgid "Title"
+msgstr ""
+
+#: inc/admin/sam-typography.php:160 inc/admin/sam-typography.php:214
+msgid "Meta Text"
+msgstr ""
+
+#: inc/admin/sam-typography.php:164 inc/admin/sam-typography.php:218
+msgid "Text"
+msgstr ""
+
+#: inc/admin/sam-typography.php:188
+msgid "Post Title"
+msgstr ""
+
+#: inc/admin/theme-options.php:11
+msgid "Sampression Pro"
+msgstr ""
+
+#: inc/admin/theme-options.php:15
+msgid "version 1.0"
+msgstr ""
+
+#: inc/admin/theme-options.php:21
+msgid "http://sampression.com/themes/sampression-pro/#change-log"
+msgstr ""
+
+#: inc/admin/theme-options.php:21
+msgid "VIEW CHANGE LOG"
+msgstr ""
+
+#: inc/admin/theme-options.php:22
+msgid "http://docs.sampression.com/category/sampression-pro"
+msgstr ""
+
+#: inc/admin/theme-options.php:22
+msgid "THEME DOCUMENTATION"
+msgstr ""
+
+#: inc/admin/theme-options.php:23
+msgid ""
+"https://support.sampression.com/hc/communities/public/topics/sampression-pro-"
+"WE_NEED_TO_CHANGE_THIS_URL_AFTER_THEME_IS_LIVE"
+msgstr ""
+
+#: inc/admin/theme-options.php:23
+msgid "VISIT SUPPORT DESK"
+msgstr ""
+
+#: inc/admin/theme-options.php:35
+msgid "Please save your changes by clicking save button at the bottom"
+msgstr ""
+
+#: inc/functions/functions.php:19
+#, php-format
+msgid ""
+"Import all your previous settings and configurations of Sampression Lite to "
+"Sampression Pro. <a href=\"%2$s\" class=\"import-lite-data\">Import Now</a> "
+"| <a href=\"%1$s\" class=\"hide-setup-notice\">Hide Notice</a>"
+msgstr ""
+
+#: inc/functions/functions.php:245
+msgid "Top Menu"
+msgstr ""
+
+#: inc/functions/functions.php:252
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/functions/functions.php:254
+msgid "The Primary Sidebar displays on sidebar of the inner pages."
+msgstr ""
+
+#: inc/functions/functions.php:258
+msgid "Footer Sidebar"
+msgstr ""
+
+#: inc/functions/functions.php:260
+msgid "The Footer Sidebar displays on footer."
+msgstr ""
+
+#: inc/functions/functions.php:392
+msgid "Read more &#8250;"
+msgstr ""
+
+#: inc/functions/functions.php:855
+msgid "Proudly powered by:"
+msgstr ""
+
+#: inc/functions/functions.php:855
+msgid "http://wordpress.org"
+msgstr ""
+
+#: inc/functions/functions.php:855
+msgid "WordPress"
+msgstr ""
+
+#: inc/functions/functions.php:859
+msgid "Theme by:"
+msgstr ""
+
+#: inc/functions/functions.php:859
+msgid "http://sampression.com"
+msgstr ""
+
+#: inc/functions/functions.php:956
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/functions/functions.php:957
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/functions/functions.php:1033
+msgid "Pingback:"
+msgstr ""
+
+#: inc/functions/functions.php:1058
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: inc/functions/functions.php:1064
+#, php-format
+msgid "<span class=\"date-details\">%1$s</span>"
+msgstr ""
+
+#: inc/functions/functions.php:1073
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: inc/functions/functions.php:1084
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions/functions.php:1153
+#, php-format
+msgid ""
+"%3$s <time class=\"col\" datetime=\"2011-09-28\"><span class=\"ico"
+"\">Published on</span>%2$s</time> "
+msgstr ""
+
+#: inc/functions/functions.php:1170
+msgid "1"
+msgstr ""
+
+#: inc/functions/functions.php:1170
+msgid "%"
+msgstr ""
+
+#: inc/functions/functions.php:1177
+#, php-format
+msgid ""
+"<span class=\"ico\">Categories</span><div class=\"overflow-hidden cat-listing"
+"\">%s</div>"
+msgstr ""
+
+#: inc/functions/functions.php:1342
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/functions/functions.php:1467
+msgid "Styling"
+msgstr ""
+
+#: inc/functions/functions.php:1483
+msgid "Blog"
+msgstr ""
+
+#: inc/functions/functions.php:1491
+msgid "Import <br> Export"
+msgstr ""
+
+#: inc/functions/functions.php:1505
+msgid ""
+"Sorry but we couldn't find the page you are looking for. Please check to "
+"make sure you've typed the URL correctly. You may also want to search for "
+"what you are looking for."
+msgstr ""
+
+#: inc/functions/functions.php:1510
+msgid "You can start a new search by using the box below."
+msgstr ""
+
+#: inc/widgets/adminbar-menu.php:43
+msgid "Hooks"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:37
+msgid "Nothing Found For:"
+msgstr ""
+
+#: search.php:41
+msgid ""
+"Apologies, but no results were found for the requested keyword. Please try "
+"another keywords.."
+msgstr ""
+
+#: searchform.php:13
+msgid "search by keyword"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: sidebar-right.php:20
+msgid "Most Popular"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Most Popular Posts"
+msgstr ""
+
+#: sidebar.php:41
+msgid "Recent Comments"
+msgstr ""
+
+#: single.php:26
+msgid "Post navigation"
+msgstr ""
+
+#: single.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: single.php:28
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single.php:81
+#, php-format
+msgid "<span class=\"icon-Folder-Archive\"></span> %s"
+msgstr ""
+
+#: tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
